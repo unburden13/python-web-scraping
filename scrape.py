@@ -1,5 +1,5 @@
 import requests
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup  # or Scrapy for more features and massive processing
 import pprint
 
 
